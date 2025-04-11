@@ -7,7 +7,7 @@ const lexend = Lexend({
 });
 
 export const metadata: Metadata = {
-  title: "Gesture Detect React Demo",
+  title: "Gesture Detect Demo",
   description: "Minimal demo of gesture detection with Google Mediapipe + NextJS",
 };
 
